@@ -130,8 +130,10 @@
     <ClCompile Include="Beneficiary.cpp" />
     <ClCompile Include="BusTransportBuilder.cpp" />
     <ClCompile Include="Child.cpp" />
+    <ClCompile Include="Director.cpp" />
     <ClCompile Include="GrownUp.cpp" />
     <ClCompile Include="PAPS_lab2.cpp" />
+    <ClCompile Include="TaxiTransportBuilder.cpp" />
     <ClCompile Include="Transport.cpp" />
     <ClCompile Include="TransportBuilder.cpp" />
   </ItemGroup>
